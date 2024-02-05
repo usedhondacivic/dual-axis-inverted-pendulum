@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "balance_stick_footprints")(type "KiCad")(uri "${KIPRJMOD}/balance_stick_footprints.pretty")(options "")(descr ""))
+)
